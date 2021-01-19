@@ -7,4 +7,4 @@ def index():
 
 @app.route('/version')
 def version():
-  return '0.0.1' 
+  return '0.0.5' 
